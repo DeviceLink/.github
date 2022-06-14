@@ -1,4 +1,7 @@
-## Hi there 👋
+## Keep your server connected.
+DeviceLink attempts to bring everything together, everywhere.
+
+
 This project is currently being worked on, we will post updates soon.
 
 <!--
